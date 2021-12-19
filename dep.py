@@ -21,7 +21,7 @@ def main():
     st.sidebar.text("Built with Streamlit")
     
     st.sidebar.header("For Any Queries/Suggestions Please reach out at :")
-    st.sidebar.info("gauravkumarvishwakarma@gmail.com")    
+    st.sidebar.info("Abhay800jaiswal@gmail.com")    
 
     image = Image.open("Project1 logo.jpeg")
     st.image(image, caption='Food Recommendation System',use_column_width=True)
